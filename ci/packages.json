@@ -5,8 +5,7 @@
     "demo-core"
   ],
   "build": {
-    "native": "ci/package/native.sh",
-    "openwrt": "ci/package/openwrt.sh"
+    "native": "ci/package/native.sh"
   },
   "matrix": {
     "linux": [
