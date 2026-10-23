@@ -1,3 +1,4 @@
+/* Sandbox out-of-lineage direct-arm notification. */
 #include <demo-core.h>
 #include <stdio.h>
 int main(void) {
